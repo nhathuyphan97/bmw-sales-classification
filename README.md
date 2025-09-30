@@ -28,6 +28,7 @@ Identify which cars are likely to generate **High sales**, so a dealership can p
 ## 📂 Repository Structure
 bmw-sales-classification/
 ├── data/
+
 │ ├── raw/ # original dataset
 │ └── processed/ # cleaned/transformed data
 ├── notebooks/ # Jupyter notebooks
